@@ -2,7 +2,7 @@
 
 #### git
 > A git aliases plugin for [Oh My Fish][omf-link] based loosely on the
-[Oh My Zsh Git Plugin][omz-git-plugin].
+[Prezto Git Plugin][prezto-git-plugin].
 
 [![MIT License](https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square)](/LICENSE)
 [![Fish Shell Version](https://img.shields.io/badge/fish-v2.2.0-007EC7.svg?style=flat-square)](http://fishshell.com)
@@ -12,7 +12,7 @@
 ## Install
 
 ```fish
-$ omf install https://github.com/jhillyerd/plugin-git
+$ omf install https://github.com/quangrau/plugin-git
 ```
 
 
@@ -31,4 +31,4 @@ $ omf install https://github.com/jhillyerd/plugin-git
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
-[omz-git-plugin]: https://github.com/robbyrussell/oh-my-zsh/wiki/Plugin:git
+[prezto-git-plugin]: https://github.com/zsh-users/prezto/tree/master/modules/git
